@@ -3,6 +3,7 @@
 <h4>Java ile yarı çapını kullanıcıdan aldığınız dairenin alanını ve çevresini hesaplayan programı yazın</h4>
 
 <ul>
+    <li>𝜋 sayısını = 3.14 alınız.</li>
     <li>Alan Formülü : π * r * r;</li>
     <li>Çevre Formülü : 2 * π * r;</li>
 </ul>
